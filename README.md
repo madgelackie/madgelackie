@@ -19,6 +19,6 @@ In the near-future I plan to:
 
 I'm sure that list will never stop growing 👍
 
-Fun fact - I love a bit of Energy geekery - [hello National Grid ESO's Carbon Intensity API](https://carbonintensity.org.uk/). This is the kind of thing that drew me to a career in tech.
+Fun fact: I love a bit of Energy geekery - hello [National Grid ESO's Carbon Intensity API](https://carbonintensity.org.uk/). This is the kind of thing that drew me to a career in tech.
 
 

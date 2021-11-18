@@ -3,9 +3,9 @@
 I'm an early-career software developer.  
 
 I've so far worked in
-* 🐍 Python   ⏱ Javascript    🧱 Java     
-* ⚛️ React     🍟 Flask        
-* 💻 PostgreSQL   💃🕺 MongoDB 
+* 🐍 Python       ⏱ Javascript        🧱 Java     
+* ⚛️ React        🍟 Flask        
+* 💻 PostgreSQL       💃🕺 MongoDB 
 
 I have a background in audiology so it's taking me a while to break the habit of writing 'dB' and start writing 'db' 🎵 
 

@@ -3,16 +3,19 @@
 I'm an early-career software developer.  
 
 I've so far worked in
-*🐍 Python 
-*Javascript
-*🧱Java
-*⚛️React
-*Flask
-PostgreSQL and MongoDB databases.  I come from an audiology background so it's taking me a while to break the habit of writing 'dB' and start writing 'db' 🎵 
+* 🐍 Python 
+* Javascript
+* 🧱Java
+* ⚛️React
+* Flask
+* PostgreSQL and 
+* MongoDB 
+
+I come from an audiology background so it's taking me a while to break the habit of writing 'dB' and start writing 'db' 🎵 
 
 In the near-future I plan to:
-*☁️ learn more about cloud computing
-*🔒learn more about authentication across the full stack
+* ☁️ learn more about cloud computing
+* 🔒learn more about authentication across the full stack
 
 I'm sure that list will never stop growing 👍
 

@@ -15,7 +15,7 @@ I have a background in audiology so it's taking me a while to break the habit of
 In the near-future I plan to:
 * ☁️ learn more about cloud computing
 * 🚇 CI / CD
-* 🔒 learn more about authentication across the full stack
+* 🔒 learn more about security across the full stack
 
 
 I'm sure that list will never stop growing 👍

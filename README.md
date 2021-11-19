@@ -1,4 +1,4 @@
-### Hi 👋 I'm Marion.
+### Hi 👋  I'm Marion.
 
 I'm an early-career software developer.  
 

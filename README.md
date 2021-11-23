@@ -3,7 +3,7 @@
 I'm an early-career software developer.  
 
 
-I've so far worked in:
+I've worked with:
 * 🐍 Python       ⏱ Javascript        🧱 Java     
 * ⚛️ React        🍟 Flask        
 * 💻 PostgreSQL       💃🕺 MongoDB 
@@ -13,9 +13,9 @@ I have a background in audiology so it's taking me a while to break the habit of
 
 
 In the near-future I plan to:
-* ☁️ learn more about cloud computing
-* 🚇 CI / CD
-* 🔒 learn more about security across the full stack
+* learn more about cloud computing
+* CI / CD
+* learn more about security across the full stack
 
 
 I'm sure that list will never stop growing 👍

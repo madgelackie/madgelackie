@@ -12,10 +12,10 @@ I've worked with:
 I have a background in audiology so it's taking me a while to break the habit of writing 'dB' and start writing 'db' 🎵 
 
 
-In the near-future I plan to:
-* learn more about cloud computing
+In the near-future I plan to learn more about:
+* cloud computing
 * CI / CD
-* learn more about security across the full stack
+* security across the full stack
 
 
 I'm sure that list will never stop growing 👍
